@@ -9,7 +9,7 @@ trigger:
 variables:
  
   # Azure Resource Manager connection created during pipeline creation
-  azureSubscription: '059c6547-0eff-4e34-9e72-3434edc18fa1'
+  azureSubscription: 'Azure para estudiantes'
   
   # Web app name
   webAppName: 'ak-pwa'
